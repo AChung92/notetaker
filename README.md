@@ -22,7 +22,7 @@ Project created with:
 ## Status
 To view my project please visit the below.
 
-[Team Profile Generator Guide](https://dashboard.heroku.com/apps/notetaker-19926)
+[Team Profile Generator Guide](https://notetaker-19926.herokuapp.com/)
 
 ## Screenshot
 
